@@ -1,0 +1,26 @@
+{
+  "name": "node-express-notes-app",
+  "version": "1.0.0",
+  "description": "node/express backend to serve data over http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnoo/NODE-EXPRESS-notes-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielnoo/NODE-EXPRESS-notes-app/issues"
+  },
+  "homepage": "https://github.com/danielnoo/NODE-EXPRESS-notes-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+    
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
